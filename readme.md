@@ -9,8 +9,7 @@ What it does is take a city as an input and then makes an API call to openweathe
 To start a new project using Stencil, clone this repo to a new directory:
 
 ```bash
-git clone https://github.com/ionic-team/stencil-starter.git my-app
-cd my-app
+git clone https://github.com/Vanutappi/Weather_Challenge.git
 git remote rm origin
 ```
 
